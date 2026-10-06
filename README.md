@@ -2,3 +2,4 @@
 
 this folder has my Genai progress
 this is actually good
+learning git and gitHub is a part of the Genai roadmap
